@@ -30,18 +30,21 @@ body{
     padding-right: 150px;
 }
 .text-xxl {
-    font-size: 41px;
+    font-size: 35px;
     color: white;
-    padding: 30px 0;
+    padding: 50px 0;
+    font-family: 'Kenyan Coffee', sans-serif;                                                
 }
 .text-white{
     color: white;
+    font-size: 16px;
 }
 .tt{
     font-size: 18px;
 }
 .titulo{
-    font-size: 40px;
+    font-size: 35px;
+    font-family: 'kenyan coffee bd.otf', sans-serif;  
 }
 .ficha {
 margin-top: 40px;
