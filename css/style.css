@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+    
+}
+html {
+    height: 100%;
+}
+body{
+    height: 100%;
+    margin: 0;
+}
+.row {
+    display: flex;
+}
+.bg-chica{
+    background-image: url(../img/chica.jpg);
+    background-size: cover;
+    height: 100%;
+}
+.left {
+ width: 50%;
+
+ padding: 40px 80px;
+}
+.right {
+    width: 50%;
+    background-color: white;
+    height: 100%; 
+    padding-left: 35px;
+    padding-right: 150px;
+}
+.text-xxl {
+    font-size: 41px;
+    color: white;
+    padding: 30px 0;
+}
+.text-white{
+    color: white;
+}
+.tt{
+    font-size: 18px;
+}
+.titulo{
+    font-size: 40px;
+}
+.ficha {
+margin-top: 40px;
+padding: 8px 20px;
+font-size: 18px;
+}
+.selectec{
+    border-bottom: solid 2px rgb(95, 10, 255);
+}
+a {
+    text-decoration: none;
+    color: rgb(95, 10, 255);
+}
+label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.formulario{
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+.acceder{
+    padding: 15px 80px;
+    font-weight: bold;
+    border: none;
+    background-color:rgb(95, 10, 255);
+    color: white;
+}
+.aling-items{
+    align-items: center;
+}
+
+
+
